@@ -21,6 +21,6 @@ python3 main.py
 Close window to end proccess
 
 
-You can also consomize teh url by goign into the cod eand editins the 
+You can also consomize the url by going into the code and editing the 
 
 url = ####
