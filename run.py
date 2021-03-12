@@ -1,6 +1,7 @@
 import webbrowser
 from pynput.keyboard import Key, Listener
 
+#Put you url below
 url = 'https://docs.google.com/'
 
 def show(key):
