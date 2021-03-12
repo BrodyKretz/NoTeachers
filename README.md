@@ -3,6 +3,9 @@ This is a python script that you can run in the backroun d of your computer, and
 
 
 ## Usage
+
+Open Terminal
+
 ```
 git clone https://github.com/TheComputerDon/NoTeachers.git
 ```
@@ -15,3 +18,9 @@ pip install -r requirements.txt
 ```
 python3 main.py
 ```
+Close window to end proccess
+
+
+You can also consomize teh url by goign into the cod eand editins the 
+
+url = ####
