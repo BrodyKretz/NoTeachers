@@ -3,15 +3,15 @@ This is a python script that you can run in the backroun d of your computer, and
 
 
 ## Usage
-
+```
 git clone
-
-
+```
+```
 cd NoTeachers
-
-
+```
+```
 pip install -r requirements.txt
-
-
+```
+```
 python3 main.py
-
+```
