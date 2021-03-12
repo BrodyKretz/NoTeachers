@@ -4,7 +4,7 @@ This is a python script that you can run in the backroun d of your computer, and
 
 ## Usage
 ```
-git clone
+git clone https://github.com/TheComputerDon/NoTeachers.git
 ```
 ```
 cd NoTeachers
