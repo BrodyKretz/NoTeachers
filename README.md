@@ -16,7 +16,7 @@ cd NoTeachers
 pip install -r requirements.txt
 ```
 ```
-python3 main.py
+python3 run.py
 ```
 Close window to end proccess
 
