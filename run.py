@@ -2,7 +2,7 @@ import webbrowser
 from pynput.keyboard import Key, Listener
 
 #Put you url below
-url = 'https://docs.google.com/'
+url = 'https://docs.google.com/presentation/u/0/?tgif=d'
 
 def show(key):
     if key == Key.tab:
