@@ -21,6 +21,6 @@ python3 run.py
 Close window to end proccess
 
 
-You can also consomize the url by going into the code and editing the 
+You can also costumize the url by going into the code and editing the url.
 
 url = ####
