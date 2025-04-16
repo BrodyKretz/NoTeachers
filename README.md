@@ -1,5 +1,5 @@
 # NoTeachers
-This is a python script that you can run in the backroun d of your computer, and when ever you press TAB you will be directed to a url of your choice.
+This is a python script that you can run in the backround of your computer, and when ever you press TAB you will open a page over waht ever screen you are on with a specified URL.
 
 
 ## Usage
